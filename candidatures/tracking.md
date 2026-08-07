@@ -1,9 +1,11 @@
 # Suivi des candidatures
 
-Recherche effectuée le 2026-08-07 via Indeed, LinkedIn et Greenhouse. Aucune candidature
-n'a été soumise automatiquement — chaque ligne a un lien direct, à toi de cliquer après
-relecture. Statut à mettre à jour au fur et à mesure : `À traiter` / `Postulé` / `Entretien`
-/ `Refusé` / `Abandonné`.
+Recherche initiale le 2026-08-07, rafraîchie le 2026-08-07 (semaine du 01-07/08) via Indeed,
+LinkedIn et Greenhouse. Une veille automatique quotidienne tourne désormais et ajoute les
+nouvelles offres ici + dans `candidatures/veille/AAAA-MM-JJ.md`. Aucune candidature n'a été
+soumise automatiquement — chaque ligne a un lien direct, à toi de cliquer après relecture.
+Statut à mettre à jour au fur et à mesure : `À traiter` / `Postulé` / `Entretien` / `Refusé`
+/ `Abandonné`.
 
 Légende priorité : 🟢 Haute (bon fit secteur + séniorité) · 🟡 Moyenne (fit partiel, à tenter) · 🔴 Basse (fit faible, hors secteur ou risque sérieux de séniorité/langue)
 
@@ -20,6 +22,9 @@ Légende priorité : 🟢 Haute (bon fit secteur + séniorité) · 🟡 Moyenne 
 | 🟡 | Project Manager, International Partnerships | Substack | Édition (plateforme) | 1–2 ans | [Postuler](https://to.indeed.com/aa79mpyxz42y) | À traiter | Très bon secteur mais poste plus junior que son niveau — accessible si elle veut sécuriser une candidature. £45-60k. |
 | 🟡 | Marketing Manager, UKI (Regional Growth) | Bazaarvoice | Hors secteur cible | Non précisé | [Postuler](https://to.indeed.com/aatld2jbrtrg) | À traiter | Poste générique, hors beauté/édition/voyage. |
 | 🔴 | Regional Marketing Manager, Makeup – Travel Retail West | The Estée Lauder Companies | Beauté + Voyage | Non chiffré, P&L + gestion d'équipe | [Postuler](https://to.indeed.com/aaxkvzlmmbzr) | À traiter | Probablement trop senior (responsabilités budgétaires/managériales régionales). |
+| 🟢 | Marketing Manager, HarperNonFiction | News Corp (HarperCollins) | Édition (livres) | Mid-level, £36-41k | [Postuler](https://to.indeed.com/aa9xcjyxxcsr) | À traiter | **Nouveau (semaine du 01-07/08).** Posté le 05/08 — meilleur match de la semaine. Marketing de campagnes multicanal, pas d'XP éditoriale préalable exigée. Clôture 30/08. |
+| 🟡 | Marketing Manager | Hachette UK (Headline) | Édition (fiction/non-fiction) | Mid-level, £34-40k | [Postuler](https://to.indeed.com/aah9mt8d8f8f) | À traiter | **Nouveau.** Posté le 30/07 (à la limite des 7 jours). Marketing livre, digital/ebook, gestion budget. Clôture 25/08. |
+| 🟡 | Publicity Manager / Senior Publicity Manager | Hachette UK (Hodder & Stoughton) | Édition | Mid à Senior selon niveau, £36.5-53k | [Postuler](https://to.indeed.com/aan8v8qd9gbz) | À traiter | **Nouveau.** Posté le 05/08. Fonction adjacente (RP/publicité plutôt que marketing pur) mais secteur édition, compétences transférables. |
 
 ## 🇳🇱 Pays-Bas — CV à utiliser : `International`
 
@@ -53,6 +58,8 @@ Légende priorité : 🟢 Haute (bon fit secteur + séniorité) · 🟡 Moyenne 
 | 🔴 | Marketing Automation Manager | Fullstakk | Hors secteur (agence) | Non précisé | [Postuler](https://to.indeed.com/aa8bmyyf7bch) | À traiter | Générique. |
 | 🔴 | Senior Project Manager, FUSE | Omnicom Media Group | Hors secteur (agence média) | "Senior" | [Postuler](https://to.indeed.com/aafmj6r8nngg) | À traiter | Probablement trop senior. |
 | 🔴 | Marketing Manager | Norsk Rikstoto | Hors secteur (paris hippiques) | Non précisé | [Postuler](https://no.linkedin.com/jobs/view/marketing-manager-at-norsk-rikstoto-3220021408) | À traiter | Générique, local. |
+| 🔴 | Partnerships and Events Manager | Go Nordic Cruiseline | Voyage/croisière | 2-5 ans, bon fit niveau | [Postuler](https://to.indeed.com/aartccj2mqt2) | À traiter | **Nouveau.** Posté le 31/07. Bon secteur et bon niveau mais **exige une langue scandinave** — probablement éliminatoire. CDD ≥1 an, début 01/10/26. |
+| 🔴 | Marketing Manager | Los Tacos AS | Restauration — hors secteur cible | Mid-level | [Postuler](https://to.indeed.com/aas6sq2cbyzy) | À traiter | **Nouveau.** Posté le 02/08. Hors secteur (restauration) et exige le norvégien. |
 
 ## Résumé des points de vigilance
 
