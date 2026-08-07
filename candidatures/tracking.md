@@ -61,6 +61,38 @@ Légende priorité : 🟢 Haute (bon fit secteur + séniorité) · 🟡 Moyenne 
 | 🔴 | Partnerships and Events Manager | Go Nordic Cruiseline | Voyage/croisière | 2-5 ans, bon fit niveau | [Postuler](https://to.indeed.com/aartccj2mqt2) | À traiter | **Nouveau.** Posté le 31/07. Bon secteur et bon niveau mais **exige une langue scandinave** — probablement éliminatoire. CDD ≥1 an, début 01/10/26. |
 | 🔴 | Marketing Manager | Los Tacos AS | Restauration — hors secteur cible | Mid-level | [Postuler](https://to.indeed.com/aas6sq2cbyzy) | À traiter | **Nouveau.** Posté le 02/08. Hors secteur (restauration) et exige le norvégien. |
 
+## 🇨🇭 Suisse (Zurich, Bâle) — CV à utiliser : `International` (déjà sur place, pas de visa requis)
+
+| Priorité | Poste | Entreprise | Secteur | Séniorité indiquée | Lien | Statut | Notes |
+|---|---|---|---|---|---|---|---|
+| 🟢 | Global Brand Manager (skincare product development) | La Prairie | Beauté (skincare luxe) | 3+ ans, mid-level malgré "Global" dans le titre | [Postuler](https://to.indeed.com/aa68hypczq7q) | À traiter | Zurich. Excellent match secteur + niveau. |
+| 🟢 | Brand Manager Nivea, 100% | Beiersdorf | Beauté (soins personnels) | Non confirmée, titre ne suggère pas senior | [Postuler](https://ch.linkedin.com/jobs/view/brand-manager-nivea-100%-at-beiersdorf-4272157189) | À traiter | Zurich. |
+| 🟢 | Project Manager (Sales & Content Marketing) | Smart media agency | Agence marketing/contenu | Non précisée | [Postuler](https://to.indeed.com/aaz8myfgwx9r) | À traiter | Bâle. Hybride content ops + PM, très proche de son parcours Foundry/Bonial. |
+| 🟡 | Trade Channel Marketing Manager – Premium Spirits (m/f/d) | Coca-Cola HBC | Hors secteur (FMCG boissons) | Non précisée | [Postuler](https://to.indeed.com/aagb7xkf2xkl) | À traiter | Zurich. |
+| 🟡 | Project Manager Store Operations 80–100% | Lindt & Sprüngli | FMCG/confiserie, retail ops | Non précisée | [Postuler](https://to.indeed.com/aa2v6qkl6v7z) | À traiter | Zurich. |
+| 🟡 | Growth Hacker / Performance Marketer | Parashift | Tech/SaaS marketing | Non précisée | [Postuler](https://to.indeed.com/aatvggrbvdwc) | À traiter | Bâle. |
+| 🔴 | Marketing Manager B2B (80–100%) | HCM | Secteur B2B non précisé | Non précisée | [Postuler](https://to.indeed.com/aatgzjlk72gz) | À traiter | Zurich. |
+| 🔴 | Consulting Project Manager | Visa | Fintech, générique | Non précisée | [Postuler](https://to.indeed.com/aa8dmznfllqf) | À traiter | Zurich. |
+
+⚠️ Bâle est dominée par la pharma/biotech (hors cible) — peu de matchs. **Weleda** (Arlesheim, cosmétique naturelle, secteur très pertinent) n'a pas de poste mid-level actif identifié — à surveiller directement sur leur portail carrière.
+
+## 🏴 Écosse — Édimbourg, Glasgow — CV à utiliser : `UK` (avec mention sponsoring visa)
+
+| Priorité | Poste | Entreprise | Secteur | Séniorité indiquée | Lien | Statut | Notes |
+|---|---|---|---|---|---|---|---|
+| 🟢 | Field Marketing Manager – UKISA, DACH, Northern Countries | Centric Software | Beauté/cosmétiques adjacent (SaaS PLM pour marques cosmetics/personal care) | 3-5 ans — match parfait | [Postuler](https://to.indeed.com/aaph9sdwswld) | À traiter | Édimbourg (ou remote France/UK). Français/allemand "a plus" — elle a les deux. Vérifier sponsoring si basée UK. |
+| 🟢 | Project Manager – UK | Mindbody | Wellness/bien-être tech (adjacent beauté, spas/salons) | 2-4 ans — match parfait | [Postuler](https://to.indeed.com/aa8s2rw47hz7) | À traiter | Édimbourg. Français ou espagnol requis en plus de l'anglais — parfait avec son français natif. |
+| 🟢 | Project Manager – UK | Mindbody | Wellness/bien-être tech | 2-4 ans | [Postuler](https://to.indeed.com/aa8cs6m4p94s) | À traiter | Glasgow, même poste/profil que ci-dessus. |
+| 🟡 | Project Manager (ATR Project) | National Library of Scotland | Édition/livres (numérisation collections) | Non précisée | [Postuler](https://to.indeed.com/aajnyk84jvfp) | À traiter | Édimbourg. Bon secteur mais **CDD 6 mois, 17,5h/semaine, ~£21k pro rata réel** — à peser. |
+| 🟡 | Marketing Project Manager | Gallagher | Assurance, générique mais titre hybride exact | Non précisée | [Postuler](https://to.indeed.com/aal924yzv6h8) | À traiter | Glasgow. |
+| 🟡 | Marketing & Communications Lead | Glasgow Life | Culture/musées/bibliothèques (édition/culture adjacent) | "Lead" — séniorité à vérifier | [Postuler](https://to.indeed.com/aaq4d6tk7rym) | À traiter | Glasgow. |
+| 🔴 | Marketing Communications Manager | Barclays | Finance, générique | Non précisée | [Postuler](https://to.indeed.com/aasmj9mvxdgz) | À traiter | Édimbourg. |
+| 🔴 | Manager, Marketing Analytics | Lloyds Banking Group | Finance, générique | Non précisée | [Postuler](https://to.indeed.com/aacmfs9gxhvn) | À traiter | Édimbourg. |
+| 🔴 | Marketing Operations Manager | Gallagher | Assurance, générique | Non précisée | [Postuler](https://to.indeed.com/aaygk6d7vwl9) | À traiter | Glasgow. |
+| 🔴 | Customer Engagement Marketing Manager | The Cigna Group | Assurance santé, générique | Non précisée | [Postuler](https://to.indeed.com/aanrf7jgs7rr) | À traiter | Glasgow. |
+
+⚠️ Secteur voyage pauvre à Glasgow — Barrhead Travel (agence basée à Glasgow) n'a que des postes juniors actuellement (£24-29k).
+
 ## Résumé des points de vigilance
 
 - **Sponsoring visa UK** : aucune annonce ne le précise explicitement — à demander directement en candidature ou en entretien.
