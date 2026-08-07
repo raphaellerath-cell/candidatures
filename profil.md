@@ -4,7 +4,7 @@
 **Contact :** raphaelle.rath@gmail.com | +41 78 330 79 69
 **Base actuelle :** Suisse (Zurich) | Citoyenne française
 **Disponibilité :** à partir du 1er septembre 2026
-**Relocation :** ouverte à l'international (UK — sponsoring visa requis, Pays-Bas, Suède, Norvège)
+**Relocation :** ouverte à l'international (UK — sponsoring visa requis, Écosse incluse, Pays-Bas, Suède, Norvège, Suisse — Zurich/Bâle, pas de visa requis)
 **Langues :** Français (natif), Anglais (C2/fluent), Italien (C2/fluent), Allemand (A2)
 
 ## Résumé
