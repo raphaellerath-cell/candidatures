@@ -90,6 +90,7 @@ Légende priorité : 🟢 Haute (bon fit secteur + séniorité) · 🟡 Moyenne 
 | 🔴 | Manager, Marketing Analytics | Lloyds Banking Group | Finance, générique | Non précisée | [Postuler](https://to.indeed.com/aacmfs9gxhvn) | À traiter | Édimbourg. |
 | 🔴 | Marketing Operations Manager | Gallagher | Assurance, générique | Non précisée | [Postuler](https://to.indeed.com/aaygk6d7vwl9) | À traiter | Glasgow. |
 | 🔴 | Customer Engagement Marketing Manager | The Cigna Group | Assurance santé, générique | Non précisée | [Postuler](https://to.indeed.com/aanrf7jgs7rr) | À traiter | Glasgow. |
+| 🟡 | Brand Manager | Glenmorangie (LVMH / Moët Hennessy) | Spiritueux de luxe (whisky) — adjacent, hors 3 secteurs stricts | Brand Manager confirmé ou Assistant prêt à évoluer — bon niveau | [Postuler](https://to.indeed.com/aadhvqjcwy74) | À traiter | **Nouveau (09/08).** Posté le 07/08. Édimbourg. CDD 12 mois. Univers luxe/brand building proche du MBA Luxury Brand Management — bonne piste malgré le secteur différent. Clôture 14/08. |
 
 ⚠️ Secteur voyage pauvre à Glasgow — Barrhead Travel (agence basée à Glasgow) n'a que des postes juniors actuellement (£24-29k).
 
