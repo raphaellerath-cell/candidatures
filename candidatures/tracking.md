@@ -73,6 +73,7 @@ Légende priorité : 🟢 Haute (bon fit secteur + séniorité) · 🟡 Moyenne 
 | 🟡 | Growth Hacker / Performance Marketer | Parashift | Tech/SaaS marketing | Non précisée | [Postuler](https://to.indeed.com/aatvggrbvdwc) | À traiter | Bâle. |
 | 🔴 | Marketing Manager B2B (80–100%) | HCM | Secteur B2B non précisé | Non précisée | [Postuler](https://to.indeed.com/aatgzjlk72gz) | À traiter | Zurich. |
 | 🔴 | Consulting Project Manager | Visa | Fintech, générique | Non précisée | [Postuler](https://to.indeed.com/aa8dmznfllqf) | À traiter | Zurich. |
+| 🟢 | Travel Project Manager | FIFA | Voyage (organisation d'événements sportifs internationaux) | "Several years" corporate travel/event management — bon fit niveau | [Postuler](https://to.indeed.com/aacthltz4h82) | À traiter | **Nouveau (11/08).** Posté le 07/08, toujours active. Zurich, CDI, pas de visa. Coordination multi-pays, anglais + atout français/allemand. Annonce originale : https://jobs.fifa.com/postings/3bca0f7d-b0bb-427a-8fe9-807ba8bac5ae |
 
 ⚠️ Bâle est dominée par la pharma/biotech (hors cible) — peu de matchs. **Weleda** (Arlesheim, cosmétique naturelle, secteur très pertinent) n'a pas de poste mid-level actif identifié — à surveiller directement sur leur portail carrière.
 
