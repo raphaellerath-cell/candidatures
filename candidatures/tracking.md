@@ -26,6 +26,7 @@ Légende priorité : 🟢 Haute (bon fit secteur + séniorité) · 🟡 Moyenne 
 | 🟡 | Marketing Manager | Hachette UK (Headline) | Édition (fiction/non-fiction) | Mid-level, £34-40k | [Postuler](https://to.indeed.com/aah9mt8d8f8f) | À traiter | **Nouveau.** Posté le 30/07 (à la limite des 7 jours). Marketing livre, digital/ebook, gestion budget. Clôture 25/08. |
 | 🟡 | Publicity Manager / Senior Publicity Manager | Hachette UK (Hodder & Stoughton) | Édition | Mid à Senior selon niveau, £36.5-53k | [Postuler](https://to.indeed.com/aan8v8qd9gbz) | À traiter | **Nouveau.** Posté le 05/08. Fonction adjacente (RP/publicité plutôt que marketing pur) mais secteur édition, compétences transférables. |
 | 🟢 | Trade Marketing Manager | Nyetimber Ltd | Vins & spiritueux (luxe) — adjacent, hors 3 secteurs stricts | Mid-level, pas de reports directs, £50-55k | [Postuler](https://to.indeed.com/aaysw4vzk8d8) | À traiter | **Nouveau (13/08).** Posté le 10/08. Nyetimber = pionnier vin pétillant anglais. On/Off-Trade + Global Travel Retail (Harrods, GTR, Waitrose...). Très bon fit Bachelor Wine & Food + MBA Luxury Brand Management. Hybride Londres (4j bureau). "UK work authorisation required" — vérifier sponsoring. |
+| 🔴 | Senior Marketing Manager, Beauty UK Region (CDD remplacement congé maternité) | CHANEL | Beauté/luxe | "Senior", 3 reports directs, pilotage stratégie région UK | [Voir l'offre](https://to.indeed.com/aam967pzzwck) | À traiter | **Nouveau (14/08).** Posté le 13/08. Secteur beauté très pertinent mais probablement trop senior (titre + management d'équipe + pilotage stratégique régional). |
 
 ## 🇳🇱 Pays-Bas — CV à utiliser : `International`
 
@@ -37,6 +38,7 @@ Légende priorité : 🟢 Haute (bon fit secteur + séniorité) · 🟡 Moyenne 
 | 🟡 | Influencer Marketing Manager – Netherlands | The Quality Group GmbH | Beauté/nutrition | Non précisé | [Postuler](https://job-boards.greenhouse.io/thequalitygroupgmbh1/jobs/4762919101) | À traiter | À creuser en détail. |
 | 🔴 | Senior Brand Marketing Manager (f/m/d) | Patagonia | Hors secteur | "Senior" | [Postuler](https://to.indeed.com/aagytk24l8v4) | À traiter | Probablement trop senior, hors secteur. |
 | 🔴 | Marketing Manager (Nordic F&B) | IFF | Beauté/ingrédients (même univers que dsm-firmenich) | 5–7 ans | [Détails](https://to.indeed.com/aatk6g6rbng7) | Écarté | **Exige une langue nordique courante** (suédois/danois/norvégien/finnois) — non éliminatoire mais gros risque. |
+| 🔴 | Marketeer | FD Mediagroep (Het Financieele Dagblad / BNR) | Édition/média (presse business) | 4-6 ans — bon fit niveau | [Voir l'offre](https://to.indeed.com/aam948g2dylj) | Écarté | **Nouveau (14/08).** Posté le 13/08. Amsterdam, €4500-5100/mois. Secteur édition pertinent mais annonce en néerlandais avec exigence d'excellente capacité rédactionnelle — probablement néerlandais courant requis. |
 
 ## 🇸🇪 Suède — CV à utiliser : `International`
 
@@ -48,6 +50,7 @@ Légende priorité : 🟢 Haute (bon fit secteur + séniorité) · 🟡 Moyenne 
 | 🟡 | Project Manager – Campaigns & Live Events | Client confidentiel (via agence JobBusters) | Hors secteur (tech streaming) | "Proven experience" | [Postuler](https://to.indeed.com/aag6mbwzhtv6) | À traiter | Poste en anglais, remplacement congé parental. Bon match fonctionnel. |
 | 🔴 | Marketing Manager – Sweden | Pleo | Hors secteur (fintech) | Non précisé | [Postuler](https://boards.greenhouse.io/pleo/jobs/4951083003) | À traiter | Générique, scale-up anglophone. |
 | 🔴 | Marketing & Communications Manager | SJR | Hors secteur (agence RH) | Non chiffré | [Détails](https://to.indeed.com/aafmj4g8mg76) | Écarté | **Exige un excellent suédois écrit/oral** — probablement éliminatoire. |
+| 🔴 | Communication Manager – PR Specialist | Patriksson Group | Mode/beauté/lifestyle (agence PR) | Min. 3 ans — bon fit niveau | [Voir l'offre](https://to.indeed.com/aatl2shzvkxy) | Écarté | **Nouveau (14/08).** Posté le 13/08. Stockholm. Secteur et niveau très cohérents mais **exige le suédois courant** + connaissance du paysage médiatique suédois. |
 
 ## 🇳🇴 Norvège — CV à utiliser : `International`
 
@@ -74,6 +77,7 @@ Légende priorité : 🟢 Haute (bon fit secteur + séniorité) · 🟡 Moyenne 
 | 🟡 | Growth Hacker / Performance Marketer | Parashift | Tech/SaaS marketing | Non précisée | [Postuler](https://to.indeed.com/aatvggrbvdwc) | À traiter | Bâle. |
 | 🔴 | Marketing Manager B2B (80–100%) | HCM | Secteur B2B non précisé | Non précisée | [Postuler](https://to.indeed.com/aatgzjlk72gz) | À traiter | Zurich. |
 | 🔴 | Consulting Project Manager | Visa | Fintech, générique | Non précisée | [Postuler](https://to.indeed.com/aa8dmznfllqf) | À traiter | Zurich. |
+| 🔴 | Global Marketing Manager 100% | Medartis AG | Dispositifs médicaux (orthopédie) — hors secteur | Min. 5 ans + XP obligatoire dispositifs médicaux internationaux | [Voir l'offre](https://to.indeed.com/aar22smvj94h) | À traiter | **Nouveau (14/08).** Posté le 13/08. Bâle, pas de visa. Hors secteurs cibles, XP sectorielle très spécifique — signalé pour exhaustivité seulement. |
 | 🟢 | Travel Project Manager | FIFA | Voyage (organisation d'événements sportifs internationaux) | "Several years" corporate travel/event management — bon fit niveau | [Postuler](https://to.indeed.com/aacthltz4h82) | À traiter | **Nouveau (11/08).** Posté le 07/08, toujours active. Zurich, CDI, pas de visa. Coordination multi-pays, anglais + atout français/allemand. Annonce originale : https://jobs.fifa.com/postings/3bca0f7d-b0bb-427a-8fe9-807ba8bac5ae |
 | 🔴 | Project Manager/in Marketing | Schweiz Tourismus | Voyage/Tourisme (office national du tourisme suisse) | Min. 5 ans marketing international | [Postuler](https://to.indeed.com/aachll7ccnl9) | Écarté | **Nouveau (13/08).** Posté le 12/08. Zurich, pas de visa, excellent fit secteur (voyage) et fonction (orchestration campagnes, budgets, agences) mais **exige un allemand courant** ("sehr gute Sprachkenntnisse in Deutsch") — elle n'a que A2. À ne considérer que si elle rattrape son allemand rapidement. |
 
