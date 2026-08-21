@@ -4,7 +4,7 @@
 **Contact :** raphaelle.rath@gmail.com | +41 78 330 79 69
 **Base actuelle :** Suisse (Zurich) | Citoyenne française
 **Disponibilité :** à partir du 1er septembre 2026
-**Relocation :** ouverte à l'international (UK — sponsoring visa requis, Écosse incluse, Pays-Bas, Suède, Norvège, Suisse — Zurich/Bâle, pas de visa requis)
+**Relocation :** ouverte à l'international (UK — sponsoring visa requis, Écosse incluse, Pays-Bas, Suède, Norvège, Suisse — Zurich/Bâle, pas de visa requis, États-Unis — sponsoring visa de travail requis, cf. note ci-dessous)
 **Langues :** Français (natif), Anglais (C2/fluent), Italien (C2/fluent), Allemand (A2)
 
 ## Résumé
@@ -33,7 +33,8 @@ et piloter l'engagement multi-canal. Expérience internationale : Berlin, Paris,
 
 - **Beauté / cosmétiques :** expérience directe chez dsm-firmenich (ingrédients cosmétiques), coordination in-cosmetics 2025, MBA Luxury Brand Management.
 - **Voyage :** Bachelor Tourism Management (Wine & Food).
-- **Édition / livres :** pas d'expérience directe — à positionner via les compétences content strategy, content operations, éditorial multi-canal (blog, newsletters).
+- **Édition / livres / magazines :** pas d'expérience directe — à positionner via les compétences content strategy, content operations, éditorial multi-canal (blog, newsletters).
+- **Mode :** pas d'expérience directe — à positionner via le MBA Luxury Brand Management et l'expérience marques premium/prestige (cosmétiques de luxe).
 
 ## Notes pour le matching des offres
 
@@ -44,3 +45,9 @@ et piloter l'engagement multi-canal. Expérience internationale : Berlin, Paris,
   marketing/coordination de projet.
 - UK : sponsoring visa obligatoire (citoyenne française/UE, post-Brexit) — vérifier que
   l'entreprise sponsorise avant de prioriser une offre UK.
+- États-Unis (ajouté le 21/08) : sponsoring visa de travail obligatoire (H-1B ou équivalent,
+  souvent soumis à une loterie annuelle et à des quotas) — bien plus incertain qu'un
+  sponsoring UK/Europe. À signaler systématiquement sur les offres US, et prioriser les
+  grandes entreprises habituées à sponsoriser plutôt que les PME.
+- Secteurs élargis (ajouté le 21/08) : magazines et mode ajoutés aux secteurs cibles, en plus
+  de beauté/cosmétiques, édition/livres, voyage.
