@@ -51,3 +51,10 @@ et piloter l'engagement multi-canal. Expérience internationale : Berlin, Paris,
   grandes entreprises habituées à sponsoriser plutôt que les PME.
 - Secteurs élargis (ajouté le 21/08) : magazines et mode ajoutés aux secteurs cibles, en plus
   de beauté/cosmétiques, édition/livres, voyage.
+- Veille élargie (ajouté le 24/08) : plus de recherche le week-end — la veille du lundi
+  rassemble vendredi/samedi/dimanche. Recherche étendue à toutes les plateformes de
+  candidature courantes (Indeed, LinkedIn, Greenhouse, Glassdoor, Welcome to the Jungle,
+  StepStone, Monster, sites carrière d'entreprises, etc.), et aux intitulés de poste adjacents
+  au-delà de "Marketing Manager"/"Project Manager" (Brand Manager, Communications Manager,
+  Campaign Manager, Trade Marketing Manager, Product Marketing Manager, Program Manager,
+  Content Manager) tant qu'ils restent niveau mid et dans/adjacents aux secteurs cibles.
