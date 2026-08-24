@@ -51,6 +51,11 @@ et piloter l'engagement multi-canal. Expérience internationale : Berlin, Paris,
   grandes entreprises habituées à sponsoriser plutôt que les PME.
 - Secteurs élargis (ajouté le 21/08) : magazines et mode ajoutés aux secteurs cibles, en plus
   de beauté/cosmétiques, édition/livres, voyage.
+- Liste d'entreprises sponsors UK (ajouté le 24/08) : en complément de la veille
+  d'offres, `candidatures/entreprises_sponsors_uk.md` liste des entreprises UK des
+  secteurs cibles confirmées "licensed sponsor" sur le registre officiel Home Office —
+  à utiliser pour prioriser candidatures spontanées et veille sur leurs portails
+  carrière.
 - Veille élargie (ajouté le 24/08) : plus de recherche le week-end — la veille du lundi
   rassemble vendredi/samedi/dimanche. Recherche étendue à toutes les plateformes de
   candidature courantes (Indeed, LinkedIn, Greenhouse, Glassdoor, Welcome to the Jungle,
