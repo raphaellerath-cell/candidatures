@@ -144,3 +144,7 @@ Légende priorité : 🟢 Haute (bon fit secteur + séniorité) · 🟡 Moyenne 
 - **Langues nordiques** : deux offres prometteuses (IFF aux Pays-Bas, SJR en Suède) exigent une langue nordique qu'elle ne parle pas — écartées par défaut, à ne considérer que si elle est prête à apprendre rapidement.
 - **Édition/livres** : secteur bien couvert seulement au UK ; quasi absent en NL/SE/NO sur les plateformes consultées.
 - **Norvège** : marché le plus pauvre pour ces secteurs de niche à Oslo.
+- **31/08 (premier lundi jours ouvrés uniquement)** : veille élargie ~72-96h pour couvrir le
+  week-end non surveillé (28-30/08). Aucune offre nouvelle et pertinente trouvée sur les 11
+  localisations malgré une recherche large — voir `candidatures/veille/2026-08-31.md` pour le
+  détail des offres examinées et écartées (séniorité, secteur, ou annonces fictives).
