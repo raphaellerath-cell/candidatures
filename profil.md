@@ -35,6 +35,12 @@ et piloter l'engagement multi-canal. Expérience internationale : Berlin, Paris,
 - **Voyage :** Bachelor Tourism Management (Wine & Food).
 - **Édition / livres / magazines :** pas d'expérience directe — à positionner via les compétences content strategy, content operations, éditorial multi-canal (blog, newsletters).
 - **Mode :** pas d'expérience directe — à positionner via le MBA Luxury Brand Management et l'expérience marques premium/prestige (cosmétiques de luxe).
+- **Autres secteurs (ouverture élargie le 01/09) :** au-delà des secteurs de préférence
+  ci-dessus, elle s'ouvre à tous les secteurs pour un poste Marketing Manager / Project
+  Manager niveau mid. Atouts transférables quel que soit le secteur : gestion de projet
+  cross-fonctionnelle, marketing digital/campagnes multicanal, content operations,
+  coordination d'événements/salons professionnels (in-cosmetics 2025), alignement
+  stakeholders senior, expérience internationale (Berlin, Paris, Suisse).
 
 ## Notes pour le matching des offres
 
@@ -51,6 +57,14 @@ et piloter l'engagement multi-canal. Expérience internationale : Berlin, Paris,
   grandes entreprises habituées à sponsoriser plutôt que les PME.
 - Secteurs élargis (ajouté le 21/08) : magazines et mode ajoutés aux secteurs cibles, en plus
   de beauté/cosmétiques, édition/livres, voyage.
+- **Tous secteurs (ajouté le 01/09) :** Raphaëlle s'ouvre désormais à **tous les
+  secteurs**, pas seulement beauté/cosmétiques, édition/livres/magazines, voyage et
+  mode. Ces quatre secteurs restent la **préférence** (priorité 🟢 à fit égal) mais ne
+  sont plus un filtre d'exclusion — toute offre Marketing Manager / Project Manager
+  (ou titre adjacent) de niveau mid, quel que soit le secteur, doit désormais être
+  incluse dans la veille et le tracking, avec une priorité ajustée selon fit
+  fonctionnel + séniorité (le secteur n'est plus un critère éliminatoire, seulement
+  un bonus).
 - Liste d'entreprises sponsors UK (ajouté le 24/08) : en complément de la veille
   d'offres, `candidatures/entreprises_sponsors_uk.md` liste des entreprises UK des
   secteurs cibles confirmées "licensed sponsor" sur le registre officiel Home Office —
