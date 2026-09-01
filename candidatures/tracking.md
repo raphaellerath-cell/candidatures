@@ -148,3 +148,9 @@ Légende priorité : 🟢 Haute (bon fit secteur + séniorité) · 🟡 Moyenne 
   week-end non surveillé (28-30/08). Aucune offre nouvelle et pertinente trouvée sur les 11
   localisations malgré une recherche large — voir `candidatures/veille/2026-08-31.md` pour le
   détail des offres examinées et écartées (séniorité, secteur, ou annonces fictives).
+- **01/09** : fenêtre standard 24-48h. Aucune offre nouvelle et pertinente trouvée — voir
+  `candidatures/veille/2026-09-01.md` pour le détail (JD.com, FIFA Senior Brand Manager, Kier
+  Group, Wood Mackenzie, 4PM Entertainment, Supertext, PepsiCo, Medidata, Studio Management,
+  toutes écartées). Une piste Condé Nast (Marketing Manager, Londres, secteur magazines)
+  repérée via WebSearch mais non retenue faute de date de publication confirmable — à
+  resurveiller directement sur leur portail carrière.
