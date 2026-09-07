@@ -167,6 +167,16 @@ Légende priorité : 🟢 Haute (bon fit secteur + séniorité) · 🟡 Moyenne 
   toutes écartées). Une piste Condé Nast (Marketing Manager, Londres, secteur magazines)
   repérée via WebSearch mais non retenue faute de date de publication confirmable — à
   resurveiller directement sur leur portail carrière.
+- **07/09 (lundi, fenêtre élargie ~72-96h pour couvrir le week-end 04-06/09 non surveillé)** :
+  aucune offre nouvelle et suffisamment pertinente trouvée malgré une recherche large sur les
+  11 localisations (Indeed + WebSearch LinkedIn/Greenhouse/BoF Careers/Welcome to the
+  Jungle/jobs.ch) — voir `candidatures/veille/2026-09-07.md` pour le détail des offres
+  examinées et écartées (LUXIA Brand & Community Manager Londres, DNB Finans Brand Manager
+  Oslo, JohnHart Real Estate et Platinum Micro Los Angeles, Hackstons Head of Marketing
+  Londres, MCR Foundation Glasgow, AMOREPACIFIC Growth & Performance Marketing New York).
+  Note technique : LinkedIn, Greenhouse et Business of Fashion Careers sont bloqués par le
+  proxy réseau de la session pour un accès direct (WebFetch) — recherche appuyée sur les
+  extraits WebSearch uniquement pour ces plateformes.
 - **02/09** : fenêtre standard 24-48h (offres postées le 01/09). 3 offres nouvelles ajoutées
   (NBCUniversal/Hayu Marketing Manager Londres 🟡, Bauer Media Paid Campaign Manager Glasgow
   🔴, Quarto Group Group Marketing Manager NY 🔴 écarté séniorité+visa, BookBub/Chirp Growth
