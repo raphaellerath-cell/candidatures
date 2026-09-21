@@ -341,3 +341,12 @@ Légende priorité : 🟢 Haute (bon fit secteur + séniorité) · 🟡 Moyenne 
   DeepOcean "Er du vår nye Marketing Manager?" Oslo — hors secteur, en norvégien, ZeroCater/
   Zurich Instruments/ChainSecurity Zurich, plus large couverture NL/SE/NO/CH/NY/LA sans autre
   résultat pertinent).
+- **21/09 (lundi, fenêtre élargie ~72-96h pour couvrir le week-end 18-20/09 non surveillé)** :
+  aucune offre nouvelle et suffisamment pertinente trouvée malgré une recherche large sur les
+  11 localisations (Indeed + WebSearch LinkedIn/Greenhouse/Glassdoor/jobs.ch/Welcome to the
+  Jungle/BoF Careers) — voir `candidatures/veille/2026-09-21.md` pour le détail. Deux offres US
+  (Los Angeles) postées dans la fenêtre repérées puis écartées : OMUSUBI (Hyakunousha)
+  Marketing Manager Brand & Commercial Growth (18/09, restauration japonaise hors secteur, 8+
+  ans exigés) et Wallabaga E-Commerce Marketing Manager/Growth Manager DTC (20/09, secteur hors
+  périmètre, rôle growth/P&L très technique). Toujours aucun accès direct possible à LinkedIn/
+  Greenhouse/sites carrière via WebFetch (proxy réseau).
